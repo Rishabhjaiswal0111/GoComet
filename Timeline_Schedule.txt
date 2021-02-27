@@ -1,0 +1,28 @@
+Date 24/02/2021:
+	1. Started looking for how to run selenium because my selenium started to crash I forgot to update Chrome.
+	2. Used selenium first to fetch scrap data and set the things up
+	3. Later found it was every slow to scrap data and switch to normal request method.
+	4. Unable to request url of Flipkart because request module keeps add its own user-agent to it
+	5. Manually added header and params for the search url
+	(Assumption)6. Not sure whether to scrap data from flipkart or Amazon or Both. So selected Flipkart as default
+	7. Done with problem 1
+
+Date 25/02/2021:
+	1. Looking for how to get input number of product. After many trail and error ,found that there is a params that take page no .
+	2. Sort by range was also set using url method params
+	3. Price Range was very complicated to pass as params but after hours of trail switched to complete url with data included rather than passing it.
+	4. Delivery Pincode parameter was not there in url so started looking for how to add how to pincode are set .Unable to find anything related to it.
+
+Date 26/02/2021:
+	1. Again started looking for pincodes working, Hours of searching and inspecting brower later found there was some local storage named as pincodes had valued was setted.
+	2. Looked for how to get or set or change these local storage variable found some result but none were working.
+	3. Tried to automate brower to set delivery pincode and later droped to because it was very very time consuming.
+	4. Not added delivery features to Problem2.py 
+
+Date 27/02/2021:
+	1. Working to problem 4, unable to decide how to solve.
+	2. Found result first from flipkart and then look for founded model no from amazon and  if less priced product found then change it.
+	3. Excel file error was created, found out that hyperlink had more no of '=' in it, parsed it and worked fine.
+	4. Created github and added files and decription to some
+
+(Note : Unable to create some sort of web app or desktop application because my Sweden-India Hackaton was started online from 26/02/2021 7.30pm)
