@@ -7,12 +7,12 @@
 - ![P1](https://github.com/Rishabhjaiswal0111/GoComet/blob/master/gocomet/img/img/p1.PNG)
 - After some time an output file will be generated after the name of same search input of type .xlsx (eg for above input)
 - ![P2](https://github.com/Rishabhjaiswal0111/GoComet/blob/master/gocomet/img/img/p2.PNG)
--  *All title are Hyperlinked to the respected pages*
+- <h2>*All title are Hyperlinked to the respected pages*
 
 # 2 Problem2.py take search input, Number of product, Sort by(number), Min and Max price range and find related links and output it to cmd
 - <h2>Steps to run Problem2.py
 - ![P3](https://github.com/Rishabhjaiswal0111/GoComet/blob/master/gocomet/img/img/p3.PNG)
-- *All the inputs have some default parameter set to it except search*
+- <h2>*All the inputs have some default parameter set to it except search*
 
 # 3 Problem4.py take search input and check first from flipkart and tries to match that product to amazon if found changes are made and output file of .xlsx if generate
 - <h2>Steps to run Problem4.py
