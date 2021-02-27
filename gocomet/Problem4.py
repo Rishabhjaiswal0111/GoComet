@@ -17,7 +17,7 @@ headers = {
     'Sec-Fetch-Dest': 'document',
     'Accept-Language': 'en-US,en;q=0.9',
 }
-search=input("Enter product to campare ")
+search=input("Enter product to compare ")
 params_amaz= (
     ('k', search),
     ('ref', 'nb_sb_noss_2'),
