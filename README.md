@@ -5,9 +5,9 @@
 - Steps to run Problem1.py
 - Enter input for item to be searched
 -  ![P1](https://github.com/Rishabhjaiswal0111/GoComet/blob/master/gocomet/img/img/p1.PNG)
-  4 After some time an output file will be generated after the name of same search input of type .xlsx (eg for above input)
-  5 ![P2](https://github.com/Rishabhjaiswal0111/GoComet/blob/master/gocomet/img/img/p2.PNG)
-  6  *All title are Hyperlinked to the respected pages*
+- After some time an output file will be generated after the name of same search input of type .xlsx (eg for above input)
+- ![P2](https://github.com/Rishabhjaiswal0111/GoComet/blob/master/gocomet/img/img/p2.PNG)
+-  *All title are Hyperlinked to the respected pages*
 
 # 2. Problem2.py take search input, Number of product, Sort by(number), Min and Max price range and find related links and output it to cmd
   # Steps to run Problem2.py
