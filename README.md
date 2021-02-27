@@ -2,8 +2,8 @@
 # Testing.py uses chromedriver.exe to run it, please make sure your Chrome Version is 88.0.4324.190 (Official Build) (64-bit)
 # Use of Selenium was kept to minimum because automated web browsing takes more time to run
 # 1.Problem1.py take one search input in cmd and generate output file of .xlsx 
-  1 Steps to run Problem1.py
-  2 Enter input for item to be searched
+  1 # Steps to run Problem1.py
+  2 # Enter input for item to be searched
   3 ![P1](https://github.com/Rishabhjaiswal0111/GoComet/blob/master/gocomet/img/img/p1.PNG)
   4 After some time an output file will be generated after the name of same search input of type .xlsx (eg for above input)
   5 ![P2](https://github.com/Rishabhjaiswal0111/GoComet/blob/master/gocomet/img/img/p2.PNG)
