@@ -4,9 +4,9 @@
 # 1 Problem1.py take one search input in cmd and generate output file of .xlsx 
 - Steps to run Problem1.py
 - Enter input for item to be searched
-  ![P1](https://github.com/Rishabhjaiswal0111/GoComet/blob/master/gocomet/img/img/p1.PNG)
+![P1](https://github.com/Rishabhjaiswal0111/GoComet/blob/master/gocomet/img/img/p1.PNG)
 - After some time an output file will be generated after the name of same search input of type .xlsx (eg for above input)
- ![P2](https://github.com/Rishabhjaiswal0111/GoComet/blob/master/gocomet/img/img/p2.PNG)
+![P2](https://github.com/Rishabhjaiswal0111/GoComet/blob/master/gocomet/img/img/p2.PNG)
 -  *All title are Hyperlinked to the respected pages*
 
 # 2 Problem2.py take search input, Number of product, Sort by(number), Min and Max price range and find related links and output it to cmd
